@@ -1,0 +1,10 @@
+.parent{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+
+  .product-link{
+    text-decoration: none !important;
+    color: #000 !important;
+}  

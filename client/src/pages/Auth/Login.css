@@ -1,0 +1,11 @@
+.register{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+     
+    flex-direction: column;
+    
+}
+.register h1{
+    padding-top: 100px;
+}
